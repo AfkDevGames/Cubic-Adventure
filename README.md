@@ -6,5 +6,5 @@ My first video game project using [Unity](https://unity.com) game engine.
 <img src="Game/Assets/Images/Screenshot_4.png">
 <img src="Game/Assets/Images/Screenshot_7.png">
 <img src="Game/Assets/Images/baby mode.png">
-<img src="Game/Assets/Images/Cubic Adventure.png">
 <img src="Game/Assets/Images/Screenshot_8.png">
+<img src="Game/Assets/Images/Cubic Adventure.png">
